@@ -1,0 +1,1 @@
+Trying to make a Chatting Android Aplication with a concept of rooms for the users
